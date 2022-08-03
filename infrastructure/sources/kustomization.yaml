@@ -6,3 +6,4 @@ resources:
   - podinfo.yaml
   - karpenter.yaml
   - kubecost.yaml
+  - keptn.yaml
