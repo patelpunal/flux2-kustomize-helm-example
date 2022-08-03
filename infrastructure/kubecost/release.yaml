@@ -6,7 +6,7 @@ spec:
   releaseName: kubecost
   chart:
     spec:
-      chart: cost-analyser
+      chart: cost-analyzer
       sourceRef:
         kind: HelmRepository
         name: kubecost
