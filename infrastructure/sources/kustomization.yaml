@@ -4,6 +4,6 @@ namespace: flux-system
 resources:
   - bitnami.yaml
   - podinfo.yaml
-  - karpenter.yaml
   - kubecost.yaml
   - keptn.yaml
+  - metrics-server.yaml
